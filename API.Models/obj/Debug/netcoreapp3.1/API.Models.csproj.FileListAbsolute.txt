@@ -1,0 +1,8 @@
+E:\TestApi\API.Models\bin\Debug\netcoreapp3.1\API.Models.deps.json
+E:\TestApi\API.Models\bin\Debug\netcoreapp3.1\API.Models.dll
+E:\TestApi\API.Models\bin\Debug\netcoreapp3.1\API.Models.pdb
+E:\TestApi\API.Models\obj\Debug\netcoreapp3.1\API.Models.AssemblyInfoInputs.cache
+E:\TestApi\API.Models\obj\Debug\netcoreapp3.1\API.Models.AssemblyInfo.cs
+E:\TestApi\API.Models\obj\Debug\netcoreapp3.1\API.Models.csproj.CoreCompileInputs.cache
+E:\TestApi\API.Models\obj\Debug\netcoreapp3.1\API.Models.dll
+E:\TestApi\API.Models\obj\Debug\netcoreapp3.1\API.Models.pdb

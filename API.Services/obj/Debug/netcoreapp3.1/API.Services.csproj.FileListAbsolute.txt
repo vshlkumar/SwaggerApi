@@ -1,0 +1,12 @@
+E:\TestApi\API.Services\bin\Debug\netcoreapp3.1\API.Services.deps.json
+E:\TestApi\API.Services\bin\Debug\netcoreapp3.1\API.Services.dll
+E:\TestApi\API.Services\bin\Debug\netcoreapp3.1\API.Services.pdb
+E:\TestApi\API.Services\bin\Debug\netcoreapp3.1\API.Models.dll
+E:\TestApi\API.Services\bin\Debug\netcoreapp3.1\API.Models.pdb
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.csprojAssemblyReference.cache
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.AssemblyInfoInputs.cache
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.AssemblyInfo.cs
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.csproj.CoreCompileInputs.cache
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.csproj.CopyComplete
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.dll
+E:\TestApi\API.Services\obj\Debug\netcoreapp3.1\API.Services.pdb
